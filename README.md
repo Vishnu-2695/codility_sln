@@ -1,5 +1,7 @@
 # codility_sln
 
+#codility
+
 <h1>Task - Odd Occurrences in array</h1>
 
 The task measure both correctness and performance.
